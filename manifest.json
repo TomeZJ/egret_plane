@@ -11,7 +11,7 @@
 	],
 	"game": [
 		"bin-debug/model/BaseObjcet.js",
-		"bin-debug/calss/AssetAdapter.js",
+		"bin-debug/enemy/EnemyBullet.js",
 		"bin-debug/calss/BgMap.js",
 		"bin-debug/calss/Lg.js",
 		"bin-debug/calss/LoadingUI.js",
@@ -20,7 +20,7 @@
 		"bin-debug/calss/ThemeAdapter.js",
 		"bin-debug/enemy/EnemyBig.js",
 		"bin-debug/enemy/EnemyBoss.js",
-		"bin-debug/view/StopView.js",
+		"bin-debug/calss/AssetAdapter.js",
 		"bin-debug/enemy/EnemyPlane.js",
 		"bin-debug/Main.js",
 		"bin-debug/model/Model.js",
@@ -29,6 +29,6 @@
 		"bin-debug/sounds/AudioManager.js",
 		"bin-debug/view/MainView.js",
 		"bin-debug/view/startView.js",
-		"bin-debug/enemy/EnemyBullet.js"
+		"bin-debug/view/StopView.js"
 	]
 }
