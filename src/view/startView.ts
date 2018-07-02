@@ -24,16 +24,19 @@ class startView extends egret.Sprite {
         startButton.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onButtonClick, this);
 
         var data = RES.getRes("fly_json");
-        console.log(data)
+        // console.log(data)
         var txtr = RES.getRes("fly_png");
+        // console.log(txtr)
         var mcFactory: egret.MovieClipDataFactory = new egret.MovieClipDataFactory(data, txtr);
+        console.log(mcFactory)
         var mc1: egret.MovieClip = new egret.MovieClip(mcFactory.generateMovieClipData("fly"));
+        console.log(mc1)
         this.addChild(mc1);
         mc1.x = (this.stage.stageWidth / 2) - (startButton.width / 2);
         mc1.y = this.stage.stageHeight / 3.5;
         mc1.scaleX = 1.5
         mc1.scaleY = 1.5;
-        mc1.gotoAndPlay("start", 1);
+        mc1.gotoAndPlay("start", -1);
 
     }
     /**
