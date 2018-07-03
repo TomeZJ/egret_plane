@@ -250,7 +250,7 @@ var MainView = (function (_super) {
     MainView.prototype.timerInitwuping = function () {
         if (this.bulletGoList.length <= 1) {
             this.bulletGo1 = new egret.Bitmap();
-            this.bulletGo1 = Lg.createBitmapByName("bullet_goods1_png");
+            this.bulletGo1 = Lg.createBitmapByName("bullet_goods2_png");
             this.bulletGo1.x = Math.random() * this.stage.stageWidth;
             this.bulletGo1.y = 0;
             this.addChild(this.bulletGo1);

@@ -1,0 +1,325 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,BG_jpg,button_png,button2_png,fly_json,fly_png,bggun_jpg,blue_plane_png,blue_bullet_png,myplaneexplosion_json,myplaneexplosion_png,myplaneexplosion2_png,myplaneexplosion2_json,my_bullet_purple_png,my_bullet_red_png,purple_plane_png,red_plane_png,small_enemy_png,small_png,small_json,play_2_png,play_1_png,big_png,big_json,big_1_png,big_2_png,n3_png,bullet_goods1_png,bullet_goods2_png,boss_bullet_default_png,game_mp3,get_goods_wav,explosion_mp3,explosion2_wav,shoot_mp3,bigexplosion_wav,overBg_png,btnzailaiyici_png,bg_png,mainbg_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/background/BG.jpg",
+			"type": "image",
+			"name": "BG_jpg"
+		},
+		{
+			"url": "assets/Button/button.png",
+			"type": "image",
+			"name": "button_png"
+		},
+		{
+			"url": "assets/Button/button2.png",
+			"type": "image",
+			"name": "button2_png"
+		},
+		{
+			"url": "assets/MoviceClip/fly.png",
+			"type": "image",
+			"name": "fly_png"
+		},
+		{
+			"url": "assets/MoviceClip/fly.json",
+			"type": "json",
+			"name": "fly_json"
+		},
+		{
+			"url": "assets/background/bggun.jpg",
+			"type": "image",
+			"name": "bggun_jpg"
+		},
+		{
+			"url": "assets/plane/blue_plane.png",
+			"type": "image",
+			"name": "blue_plane_png"
+		},
+		{
+			"url": "assets/plane/blue_bullet.png",
+			"type": "image",
+			"name": "blue_bullet_png"
+		},
+		{
+			"url": "assets/MoviceClip/myplaneexplosion.json",
+			"type": "json",
+			"name": "myplaneexplosion_json"
+		},
+		{
+			"url": "assets/MoviceClip/myplaneexplosion.png",
+			"type": "image",
+			"name": "myplaneexplosion_png"
+		},
+		{
+			"url": "assets/MoviceClip/myplaneexplosion.png",
+			"type": "image",
+			"name": "myplaneexplosion2_png"
+		},
+		{
+			"url": "assets/MoviceClip/myplaneexplosion.json",
+			"type": "json",
+			"name": "myplaneexplosion2_json"
+		},
+		{
+			"url": "assets/plane/my_bullet_purple.png",
+			"type": "image",
+			"name": "my_bullet_purple_png"
+		},
+		{
+			"url": "assets/plane/my_bullet_red.png",
+			"type": "image",
+			"name": "my_bullet_red_png"
+		},
+		{
+			"url": "assets/plane/purple_plane.png",
+			"type": "image",
+			"name": "purple_plane_png"
+		},
+		{
+			"url": "assets/plane/red_plane.png",
+			"type": "image",
+			"name": "red_plane_png"
+		},
+		{
+			"url": "assets/plane/small_enemy.png",
+			"type": "image",
+			"name": "small_enemy_png"
+		},
+		{
+			"url": "assets/MoviceClip/small.png",
+			"type": "image",
+			"name": "small_png"
+		},
+		{
+			"url": "assets/MoviceClip/small.json",
+			"type": "json",
+			"name": "small_json"
+		},
+		{
+			"url": "assets/Button/play_2.png",
+			"type": "image",
+			"name": "play_2_png"
+		},
+		{
+			"url": "assets/Button/play_1.png",
+			"type": "image",
+			"name": "play_1_png"
+		},
+		{
+			"url": "assets/MoviceClip/big.png",
+			"type": "image",
+			"name": "big_png"
+		},
+		{
+			"url": "assets/MoviceClip/big.json",
+			"type": "json",
+			"name": "big_json"
+		},
+		{
+			"url": "assets/plane/big_1.png",
+			"type": "image",
+			"name": "big_1_png"
+		},
+		{
+			"url": "assets/plane/big_2.png",
+			"type": "image",
+			"name": "big_2_png"
+		},
+		{
+			"url": "assets/plane/n3.png",
+			"type": "image",
+			"name": "n3_png"
+		},
+		{
+			"url": "assets/plane/bullet_goods1.png",
+			"type": "image",
+			"name": "bullet_goods1_png"
+		},
+		{
+			"url": "assets/plane/bullet_goods2.png",
+			"type": "image",
+			"name": "bullet_goods2_png"
+		},
+		{
+			"url": "assets/plane/boss_bullet_default.png",
+			"type": "image",
+			"name": "boss_bullet_default_png"
+		},
+		{
+			"url": "assets/Music/game.mp3",
+			"type": "sound",
+			"name": "game_mp3"
+		},
+		{
+			"url": "assets/Music/get_goods.wav",
+			"type": "sound",
+			"name": "get_goods_wav"
+		},
+		{
+			"url": "assets/Music/explosion.mp3",
+			"type": "sound",
+			"name": "explosion_mp3"
+		},
+		{
+			"url": "assets/Music/explosion2.wav",
+			"type": "sound",
+			"name": "explosion2_wav"
+		},
+		{
+			"url": "assets/Music/shoot.mp3",
+			"type": "sound",
+			"name": "shoot_mp3"
+		},
+		{
+			"url": "assets/Music/bigexplosion.wav",
+			"type": "sound",
+			"name": "bigexplosion_wav"
+		},
+		{
+			"url": "config/overBg.png",
+			"type": "image",
+			"name": "overBg_png"
+		},
+		{
+			"url": "assets/Button/btnzailaiyici.png",
+			"type": "image",
+			"name": "btnzailaiyici_png"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "assets/background/bg.png"
+		},
+		{
+			"name": "mainbg_jpg",
+			"type": "image",
+			"url": "assets/background/mainbg.jpg"
+		}
+	]
+}

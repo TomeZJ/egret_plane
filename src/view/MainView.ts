@@ -40,7 +40,8 @@ class MainView extends egret.DisplayObjectContainer {
 
 
     private main: Main
-    constructor(t) {
+    
+        constructor(t) {
         super()
         this.main = t;
         //创建池子
@@ -69,6 +70,7 @@ class MainView extends egret.DisplayObjectContainer {
     }
     initBG() {   //背景
         let bggun = new BgMap();
+
         this.addChildAt(bggun, 0);
         bggun.start()
 
@@ -281,7 +283,7 @@ class MainView extends egret.DisplayObjectContainer {
     timerInitwuping() {
         if (this.bulletGoList.length <= 1) {
             this.bulletGo1 = new egret.Bitmap()
-            this.bulletGo1 = Lg.createBitmapByName("bullet_goods1_png")
+            this.bulletGo1 = Lg.createBitmapByName("bullet_goods2_png")
             this.bulletGo1.x = Math.random() * this.stage.stageWidth;
             this.bulletGo1.y = 0
             this.addChild(this.bulletGo1);
