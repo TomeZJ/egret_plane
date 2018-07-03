@@ -40,7 +40,9 @@ var EnemyBig = (function (_super) {
         var data = RES.getRes("big_json");
         var txtr = RES.getRes("big_png");
         var mcFactory = new egret.MovieClipDataFactory(data, txtr);
+        // console.log(mcFactory);
         var mc1 = new egret.MovieClip(mcFactory.generateMovieClipData("big"));
+        // console.log(mc1);
         this.addChild(mc1);
         mc1.scaleX = 1.7;
         mc1.scaleY = 1.7;
